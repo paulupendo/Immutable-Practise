@@ -1,0 +1,16 @@
+node_modules
+bower_components
+dist
+config.json
+*.zip
+package-lock.json
+webpack.config.js
+openmrs-addonmanager.zip
+~/
+coverage
+.coveralls.yml
+libs
+.DS_STORE
+package-lock.json
+# Vscode autogen folders
+.vscode/
